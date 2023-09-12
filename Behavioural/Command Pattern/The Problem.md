@@ -1,5 +1,7 @@
 ## Here is a scenario.
 
-Let's assume that we wanna make a GUI framework. We'll create a `button` class/component so the others can use it. But we dont't know what the user wants with this button. When clicked, s/he may want a form to be posted, or the database to be upadated. We cannot hardcode the functionality inside the button class as it depends on what the user wants.
+Let's assume you want to make something. It might be a website, a word processor, a photo editor, or whatever. And we have something common in all these scenarios. What can it be?  
+A button!  
+You have implemented a button class? Nice! But do you know what this button is supposed to do when it's clicked? It may execute a number of things e.g. submit a form, bold a text, apply a filter. Will you hardcode the actions into the button class? Can you just imagine how messy that will be? And it won't make any sense either!
 
-### What can we do now?
+### So, what will you do?
