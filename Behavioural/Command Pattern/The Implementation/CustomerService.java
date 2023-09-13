@@ -3,4 +3,7 @@ public class CustomerService {
     public void addCustomer() {
         System.out.println("Button Clicked and Customer Added!");
     }
+    public void submitForm() {
+        System.out.println("Button Clicked and Form Submitted!");
+    }
 }
