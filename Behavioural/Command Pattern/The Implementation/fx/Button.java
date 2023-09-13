@@ -6,7 +6,7 @@ public class Button {
 
     public Button(Command command) {
         this.command = command;
-    } //we will pass an object while construction
+    } //initialization
 
     public void click() {
         command.execute();

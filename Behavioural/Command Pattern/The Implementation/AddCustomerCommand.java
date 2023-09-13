@@ -5,7 +5,7 @@ public class AddCustomerCommand implements Command {
 
     public AddCustomerCommand(CustomerService service) {
         this.service = service;
-    } //we will pass an object while construction
+    } //initialization
 
     @Override
     public void execute() {
