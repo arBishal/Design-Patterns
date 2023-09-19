@@ -6,3 +6,4 @@
 ## Structural
 
 ## Creational
+* Singleton Pattern
